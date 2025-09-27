@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Antonis Mpatsalias, a 26 year old Electrical and Computer Engineer
+- 👋 Hi, I'm Antonis Mpatsalias, a 28 year old Electrical and Computer Engineer
 - 👀 I’m interested in coding, telecommunications and continuous learing  
-- 🌱 I’m currently really focused on Web Development! 
-- 💞️ Junior Software Developer in NETinfo, based in Nicosia, Cyprus.
+- 🌱 I’m currently really focused on Software Development (currently learning SpringBoot)! 
+- 💞️ Mid Level Software Developer in NETinfo, based in Nicosia, Cyprus.
 - ⚡ Other facts: I love travelling, sports/gym, foreign language learning (currently learning portugues), geopolitics and crypto.
 
 <!---
